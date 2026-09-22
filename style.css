@@ -26,5 +26,15 @@ a{
   margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
-  width: 150px;
+}
+
+.right {
+  display: block;
+  margin-left: 700;
+  margin-top:-300; 
+}
+
+/*makes all images black and white*/
+img {
+  filter: grayscale(100%);
 }
