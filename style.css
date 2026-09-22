@@ -1,24 +1,25 @@
-
-
 /*background*/
-body{
+body {
   background-color: black
 }
+
 /*text*/
-p{
- font-size: 30px;
+p {
+  font-size: 30px;
   color: white;
   font-style: bold
 }
 
-h2{
+h2 {
   color: white;
   text-align: right
 }
+
 /*removes blue color and underline from the anchor tag*/
-a{
+a {
   color: white;
 }
+
 /*centers images using a div and margins*/
 .center {
   display: block;
@@ -26,16 +27,19 @@ a{
   margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
-  position: relative;
+
 }
 
 
 
 .left {
-  display: block;
-  margin-right: -800px;
-  margin-top: -300px; 
-  position: relative;
+  align-content: left;
+
+}
+
+.right {
+  align-content: right;
+
 }
 
 /*makes all images black and white*/
