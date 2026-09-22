@@ -8,6 +8,12 @@ body{
 p{
  font-size: 30px;
   color: white;
+  font-style: bold
+}
+
+h2{
+  color: white;
+  text-align: right
 }
 /*removes blue color and underline from the anchor tag*/
 a{
