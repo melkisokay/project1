@@ -29,13 +29,7 @@ a{
   position: relative;
 }
 
-.right {
-  display: block;
-  margin-left: 1000px;
-  margin-top: -300px; 
-  margin-right: auto;
-  position: relative;
-}
+
 
 .left {
   display: block;
@@ -47,4 +41,6 @@ a{
 /*makes all images black and white*/
 img {
   filter: grayscale(100%);
+  height: auto;
+  width: 300px
 }
