@@ -31,15 +31,16 @@ a{
 
 .right {
   display: block;
-  margin-left: 700;
-  margin-top: -300; 
+  margin-left: 900px;
+  margin-top: -300px; 
+  scroll-margin: auto;
   position: relative;
 }
 
 .left {
   display: block;
-  margin-right: 700;
-  margin-top: -300; 
+  margin-right: -800px;
+  margin-top: -300px; 
   position: relative;
 }
 
