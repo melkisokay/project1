@@ -1,0 +1,24 @@
+
+
+/*background*/
+body{
+  background-color: grey
+}
+/*text*/
+p{
+ font-size: 30px;
+  color: white;
+}
+/*removes blue color and underline from the anchor tag*/
+a{
+  color: white;
+}
+/*centers images using a div and margins*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 150px;
+}
