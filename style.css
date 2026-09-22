@@ -15,7 +15,7 @@ h2 {
   text-align: right
 }
 
-/*removes blue color and underline from the anchor tag*/
+/*removes blue color from the anchor tag*/
 a {
   color: white;
 }
@@ -27,18 +27,6 @@ a {
   margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
-
-}
-
-
-
-.left {
-  align-content: left;
-
-}
-
-.right {
-  align-content: right;
 
 }
 
